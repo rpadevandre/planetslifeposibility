@@ -1,5 +1,7 @@
 # planetslifeposibility
 
+Licencia **MIT** — ver el archivo [`LICENSE`](LICENSE).
+
 Backend en **Python + FastAPI** que genera **sistemas solares** de forma procedural, evalúa **habitabilidad** al estilo Tierra, y simula en **fast-forward** (millones de años) el surgimiento de **civilizaciones** con puntuaciones de tecnología, disposición (hostil ↔ pacifista) y extinción, entre otra metadata pensada para juegos, demos o análisis lúdicos.
 
 > **Importante:** no es un simulador físico riguroso. Los valores son **scores y heurísticas** (temperatura, agua, atmósfera, zona habitable, etc.), no predicciones científicas.
@@ -114,4 +116,4 @@ requirements.txt
 
 ## Licencia
 
-Sin licencia explícita en el repositorio: añade un archivo `LICENSE` si quieres condiciones claras de uso.
+Este proyecto se publica bajo la [Licencia MIT](LICENSE). Puedes usar, copiar, modificar y distribuir el código con pocas condiciones; el software se ofrece “tal cual”, sin garantías.
